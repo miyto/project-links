@@ -3,6 +3,6 @@
 hey
 
 
-[HTML](/jxprojects.github.io/home/)
+[HTML](https://jxprojects.github.io/home/)
 
-[Jekyll](/jkozak30.github.io/blog/)
+[Jekyll](https://jkozak30.github.io/blog/)
